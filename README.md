@@ -3,7 +3,7 @@
 安装：
 
 ```shell
-npm install vite-plugin-vue-word2vue -S
+npm install vite-plugin-vue-word2vue -D
 ```
 
 在vite.config.ts中引入
